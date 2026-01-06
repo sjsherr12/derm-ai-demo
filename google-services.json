@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "958434550412",
+    "project_id": "derm-ai-app",
+    "storage_bucket": "derm-ai-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958434550412:android:c2779365af24b5480fd1a9",
+        "android_client_info": {
+          "package_name": "com.dermai.dermaiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958434550412-flivhqpf21gms61m1kqruukba5uo5q0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXfHakWvjBZUYY2-oQ1IVoU3UP40I1h_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958434550412-flivhqpf21gms61m1kqruukba5uo5q0t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958434550412-ci3tvpj28n7d9gmnaju4aeodbttq5rvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dermai.dermaiapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
